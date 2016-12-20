@@ -1,3 +1,3 @@
 <?php
-	echo 'smile';
+	echo 'my smile';
 ?>
