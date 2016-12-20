@@ -1,3 +1,3 @@
 <?php
-	echo 'myfile';
+	echo 'this is myfile';
 ?>
